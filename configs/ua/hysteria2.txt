@@ -1,7 +1,10 @@
-hysteria2://rstnnl2705%3AQtmSqzxgO95zXwNcgVYSjDl02aRsjrrl@94.156.155.56:2026?insecure=1&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2&sni=reddeadfan.rd-team.ru#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20941002
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20326943
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20424083
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20805004
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20194872
-hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20261430
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@104.168.145.171:443?sni=us.gotogle.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20225210
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@185.228.139.247:4433?insecure=1&sni=de2.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20342992
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20829033
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20725351
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20531415
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20987405
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20527822
+hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333?insecure=1&sni=hy2.123266.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20375295
+hysteria2://IG9Sundefinedvx6RJ@47.76.94.197:58771?insecure=1&sni=go.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20869193
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@36.226.60.61:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA%3D%3D&sni=tw.9966690.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20430295
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@36.226.60.61:40000?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NT6iNA%3D%3D&sni=tw.9966690.xyz#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20380765
