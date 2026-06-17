@@ -1,4 +1,6 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20390468
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20671417
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20552428
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20205468
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20442558
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20873729
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20249061
+hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20409576
+hysteria2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20727616
+hysteria2://zhangyang@130.61.50.75:6443?insecure=1&sni=dash.cloudflare.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20878882
