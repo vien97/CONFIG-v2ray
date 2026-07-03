@@ -1,11 +1,4 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20972117
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20382274
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433/?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20668631
-hysteria2://18cf8030-1ceb-4b7d-8c0c-c036413c144e@202.61.205.86:4433?insecure=1&sni=de1.xiaoliyu.cyou#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20354986
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20623436
-hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20575303
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000/?insecure=1&sni=cn.cremedelamer.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20379483
-hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1&sni=cn.cremedelamer.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20955783
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20164873
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20943126
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?sni=https%3a%2f%2ft.me%2foneclickvpnkeys&path=%2f&allow_insecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20417927
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20349563
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20687850
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20969393
+hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443?sni=fta.fontanvpn.com#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20834352
